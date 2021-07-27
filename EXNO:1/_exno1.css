@@ -1,0 +1,19 @@
+.style{
+    border: 15px;
+    background-color: sandybrown;
+    text-align: center;
+   margin: 0px 200px 0px 100px;
+}
+
+.image
+{
+    float: right;
+}
+
+
+.body
+{
+    margin-left: 25px;
+   font-family: Bell MT;
+   background-color: lightcyan;
+}
