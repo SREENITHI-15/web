@@ -1,0 +1,55 @@
+#anchor
+{
+text-decoration: none;
+color: black;
+}
+ul{
+    overflow: hidden;
+}
+.image
+{
+    background: url(image/bg.jpg)  ;
+    background-size: cover;
+}
+.centre
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+   
+}
+.right
+{
+    float: right;
+    padding-left: 2%;
+}
+a:hover
+{
+    background-color: white;
+}
+.footer
+{
+    position: fixed;
+    bottom: 0;
+    background-color: gray;
+    color: black;
+    width: 100%;
+    text-align: center;
+}
+table
+{
+    border-collapse: separate;
+    border-spacing: 0 15px;
+    
+}
+.product
+{
+    width:8cm;
+    height:8cm;
+    float:none
+}
+.hor
+{
+    border-collapse: separate;
+    border-spacing: 10 0px;
+}
